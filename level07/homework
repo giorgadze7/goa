@@ -1,10 +1,21 @@
-num1 = input("My friend's age 13")
-num2 = input("My friednd's weight is 256")
-num3 = input("My firend's hight is 50.5")
-num4 = input("My friend's aura is 50")
+age = 16
+future = "8 year"
+print(16 + 8)
+
+name1 = "edward"
+name2 = "riley"
+name3 = "oliver"
+name4 = "claire"
+name5 = "kevin"
+name6 = "lana"
+name7 = "zip"
 
 
 
-
-
-
+age1 = 45
+age2 = 40
+age3 = 18
+age4 = 15
+age5 = 16
+age6 = 17
+age7 = 19
