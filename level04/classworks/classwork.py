@@ -12,4 +12,3 @@ print("thing price is" + "thing_price")
 
 
 
-
